@@ -7,7 +7,7 @@ import {
 import StatCard from "../Components/StatCard";
 import SalesCard from "../Components/SalesCard";
 import TransactionCard from "../Components/TransactionCard";
-import EarningReports from "../Components/EarningReports.JSX";
+import EarningReports from "../Components/EarningReports";
 import {
     LineChart,
     Line,
