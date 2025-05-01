@@ -2,6 +2,8 @@
 
 A modern, responsive admin dashboard built with **React.js** and **Tailwind CSS**. This project includes features like dark mode toggle, user tables with search and pagination, and a clean, professional UI – perfect for internal tools and admin panels.
 
+🔗 [View on Netlify](https://admin-reactdashboard.netlify.app/)
+
 ## 🛠️ Features
 
 - Dashboard widgets & analytics
